@@ -1,2 +1,0 @@
-# CoffeeRatingMain
-CoffeeRatingMain Description
